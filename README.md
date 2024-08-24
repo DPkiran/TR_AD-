@@ -18,7 +18,7 @@
 
 <h3>Steps</h3>
 <ul>
-    <li><strong>Open the App:</strong> Navigate to <a href="YOUR_APP_LINK">Travel Advisor App</a> in your web browser.</li>
+    <li><strong>Open the App:</strong> Navigate to <a href="https://tr-ad.netlify.app/">Travel Advisor App</a> in your web browser.</li>
     <li><strong>Explore Features:</strong> Use the search bar to find travel destinations and view them on the map.</li>
     <li><strong>Check Nearby Places:</strong> Discover hotels, restaurants, and attractions around your selected destination.</li>
 </ul>
