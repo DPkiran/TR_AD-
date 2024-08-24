@@ -13,8 +13,7 @@
 <br>
 <p><strong>Overview of the Main Interface</strong></p>
 <div class="images">
-    <img src="![Screenshot_20240824-182858](https://github.com/user-attachments/assets/c8175c7c-d364-4868-9bfd-e8c1c2280028)
-" alt="Main Interface">
+    <img src="https://github.com/user-attachments/assets/c8175c7c-d364-4868-9bfd-e8c1c2280028" alt="Main Interface">
 </div>
 
 <h3>Steps</h3>
