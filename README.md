@@ -10,6 +10,9 @@
 
 <h2>Getting Started</h2>
 
+<p><strong>Visit the Live App:</strong> Check out the live version of the Travel Advisor App <a href="https://tr-ad.netlify.app/" target="_blank">here</a>.</p>
+
+
 <br>
 <p><strong>Overview of the Main Interface</strong></p>
 <div class="images">
